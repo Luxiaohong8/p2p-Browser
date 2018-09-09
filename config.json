@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "live": {
+    "maxLayers": 5,
+    "minRPNodes": 1,
+    "maxRPNodes": 3,
+    "defaultUploadBW": 4194304,
+    "RPBWThreshold": 40960,
+    "substreams": 3
+  },
+  "vod": {
+
+  },
+  "websocket": {
+    "port": 8080
+  }
+}
